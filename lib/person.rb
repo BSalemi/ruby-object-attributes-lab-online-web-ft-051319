@@ -10,9 +10,9 @@ class Person
 
   def job=(occupation)
     @job = occupation
-  end 
+  end
 
-  def job 
+  def job
     @job
-  end 
-end 
+  end
+end
